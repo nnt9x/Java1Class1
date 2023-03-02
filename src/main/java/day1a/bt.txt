@@ -14,3 +14,14 @@ Gợi ý: nextFloat()
 Math.pow(a, b)
 Math.pow(3, 2) tuong ung 3 ^ 2
 
+3. Nhập vào số nguyên a và b từ bàn phím.
+In số dư của a / b;
+
+VD: 5 / 2 dư 1
+    -5 / 2 dư ?? 1
+
+4. Tính giá trị của biểu thức
+A = (2x > 5) and (3y < 10) or (5z + 6 > t)
+
+Với x, y, z, t là các số nguyên.
+Gợi ý: boolean A =
