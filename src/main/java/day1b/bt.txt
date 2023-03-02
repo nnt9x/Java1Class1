@@ -19,5 +19,13 @@ TH3: a != 0 -> có 1 nghiệm: -b/a
 
 4. Nhập vào số nguyên x, hỏi x có phải
 số chính phương hay ko?
+Input: long x
+Output: kết luận x?
 
+Can bac 2 cua 7 -> 2.ab (có phần thập)
+
+double 2.5 -> ép kiểu int 2
+x = 9 -> can bac 2  3.0 -> int 3
+
+5. Nhập vào tháng và năm, in ra ngày trong tháng?
 
