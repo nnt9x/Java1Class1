@@ -1,4 +1,11 @@
-1. Nhập 2 số nguyên (long) x và y. In ra trung bình
+1. Nhập 2 số nguyên (long) x và y.
+In ra trung bình
 công của 2 số đó.
 Gợi ý: nextLong()
+
+2. Nhập vào 3 số thực float x, y, z
+
+In ra tbc và tbn của x, y, z
+Kết quả làm tròn đến chữ số thập phân
+thứ 3.
 
