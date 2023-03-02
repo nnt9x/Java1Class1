@@ -1,0 +1,11 @@
+1. Viết chương trình nhập vào số nguyên n
+Hỏi n là số chẵn hay lẻ?
+
+2. Viết chương trình nhập vào số năm x, hỏi
+x là năm nhuận hay ko nhuận?
+
+Dữ liệu test:
+2000, 2020, 2024 -> năm nhuận
+1800, 2023, 1900 -> không nhuận
+-123, -200 -> không hợp lệ
+

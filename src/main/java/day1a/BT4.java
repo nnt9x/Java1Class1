@@ -13,7 +13,6 @@ public class BT4 {
         t = in.nextLong();
 
         in.close();
-
         // Bieu thuc
         boolean A = (2 * x > 5) && (3 * y < 10) || (5*z + 6 > t);
         System.out.println(A);
