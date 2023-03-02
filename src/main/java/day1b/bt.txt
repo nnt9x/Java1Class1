@@ -9,3 +9,15 @@ Dữ liệu test:
 1800, 2023, 1900 -> không nhuận
 -123, -200 -> không hợp lệ
 
+3. Giải phương trình bậc nhất:
+ax + b = 0
+# Input: a, b (double)
+# Output: x?
+TH1: a = b = 0-> VSN (0x+0 = 0)
+TH2: a = 0, b != 0 -> VN 0x + 3 = 0
+TH3: a != 0 -> có 1 nghiệm: -b/a
+
+4. Nhập vào số nguyên x, hỏi x có phải
+số chính phương hay ko?
+
+
