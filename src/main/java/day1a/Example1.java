@@ -18,8 +18,18 @@ public class Example1 {
         /*
         Tạo 2 biến lưu thông tin tên và năm sinh (2000)
         -> In ra tên và tuổi trên một dòng
-       
+        Gợi ý:
+        String hoTen = "";
+        int namSinh = 2000;
+        int tuoi = 2023 - namSinh;
          */
+        String hoTen = "Nguyen Van A";
+        int namSinh = 2000;
+        int tuoi = 2023 - namSinh;
+        // souf
+        // \n: new line
+        // \t: tab
+        System.out.printf("\nHọ tên: %s\tnăm nay %d tuổi", hoTen, tuoi);
 
     }
 }
