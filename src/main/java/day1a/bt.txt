@@ -9,3 +9,8 @@ In ra tbc và tbn của x, y, z
 Kết quả làm tròn đến chữ số thập phân
 thứ 3.
 
+Gợi ý: nextFloat()
+
+Math.pow(a, b)
+Math.pow(3, 2) tuong ung 3 ^ 2
+
