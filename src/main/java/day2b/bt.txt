@@ -1,0 +1,4 @@
+2b1. Tạo 1 mảng ngẫu nhiên gồm n số tự nhiên từ 0-9999.
+a. In ra mảng vừa tạo
+b. In ra số lớn nhất và bé nhất trong mảng.
+c. Tính trung bình cộng các giá trị trong mảng.
