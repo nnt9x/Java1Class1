@@ -18,7 +18,7 @@ public class WhileExample {
         while (true) {
             System.out.print("Nhập chuỗi: ");
             s = in.nextLine();
-            if(s.equalsIgnoreCase("exit")){
+            if (s.equalsIgnoreCase("exit")) {
                 // Thoát khỏi vòng lặp
                 break;
             }
@@ -27,8 +27,6 @@ public class WhileExample {
         }
         in.close();
 
-        /*
-        In ra cac so tu 1-> 10 sử dụng while
-         */
+
     }
 }

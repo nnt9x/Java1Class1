@@ -1,0 +1,10 @@
+1.1. Viết chương trình mô phỏng nhập
+dữ liệu người dùng.
+Gồm có: username và password
+(Mặc định có 1 TK user: admin và pass: admin)
+Người dùng sẽ có tối đa 3 lần nhập.
+-> Nếu nhập đúng -> đưa ra thông báo -> đăng nhập thành
+công.
+-> Nếu nhập sai (dưới 3 lần) -> cho nhập lại
+-> Quá 3 lần -> thông báo đăng nhập thất bại
+-> kết thúc chương trình.
