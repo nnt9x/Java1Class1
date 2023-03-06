@@ -1,0 +1,4 @@
+Example 1:
+Tạo 1 class Dog:
+Thuộc tính:  id, name, age, color
+Hành vi - hành đông hàm: run(), sleep(), eat()
