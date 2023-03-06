@@ -26,9 +26,10 @@ Có 2 phương thức:
 BT3. Tạo 1 mảng HinhTron( class tạo từ BT2).
 a. In ra hình có chu vi lớn nhất.
 b. In ra hình có diện tích bé nhất.
-c. Tính trung bình của chu vi các hình tròn.
+c. Tính trung bình cộng của chu vi các hình tròn.
 d. Có bao nhiêu hình có chu vi lớn hơn trung bình cộng chu vi
 (tính ở ý c)
+  e. Sắp xếp theo bán kính tăng dần và in ra.
 
 
 
