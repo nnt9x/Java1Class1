@@ -17,5 +17,18 @@ Tạo 2 đối tượng HCN, sau đó tính chuvi và diện tích.
 BT1. Nhập vào 1 mảng các hình chữ nhật.
 In ra hình có diện tích lớn nhất.
 
+BT2. Tạo class HinhTron có các thuộc tính bán kính.
+Có 2 phương thức:
++ tinhChuVi(): double
++ tinhDienTich(): double
++ toString(): String (tạo tự động)
+
+BT3. Tạo 1 mảng HinhTron( class tạo từ BT2).
+a. In ra hình có chu vi lớn nhất.
+b. In ra hình có diện tích bé nhất.
+c. Tính trung bình của chu vi các hình tròn.
+d. Có bao nhiêu hình có chu vi lớn hơn trung bình cộng chu vi
+(tính ở ý c)
+
 
 
