@@ -2,3 +2,20 @@ Example 1:
 Tạo 1 class Dog:
 Thuộc tính:  id, name, age, color
 Hành vi - hành đông hàm: run(), sleep(), eat()
+
+Example 2:
+Tạo 1 class HinhChuNhat. Có 2 thuộc tính:
++ chieuDai: double
++ chieuRong: double
+
+Có 2 phương thức:
++ tinhChuVi():double
++ tinhDienTich():double
+
+Tạo 2 đối tượng HCN, sau đó tính chuvi và diện tích.
+
+BT1. Nhập vào 1 mảng các hình chữ nhật.
+In ra hình có diện tích lớn nhất.
+
+
+
