@@ -20,4 +20,14 @@ public class HinhChuNhat {
     public double tinhDienTich(){
         return chieuDai * chieuRong;
     }
+
+    // Alt + insert chon toString
+
+    @Override
+    public String toString() {
+        return "HinhChuNhat{" +
+                "chieuDai=" + chieuDai +
+                ", chieuRong=" + chieuRong +
+                '}';
+    }
 }
