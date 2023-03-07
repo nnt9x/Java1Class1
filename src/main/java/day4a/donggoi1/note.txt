@@ -1,6 +1,22 @@
-1. Taọ class HinhTron co ban kinh r
+Example 1. Taọ class HinhTron co ban kinh r
 là số thực, giá trị mặc định = 1.
 
 + 1 constructor rỗng và đầy đủ tham số.
 + tinhChuVi(): double
 + tinhDienTich(): double
+
+
+BT1. Tạo 1 class HinhChuNhat có 2 thuộc
+tính chiều dài và chiều rộng. (private)
+
+- Giá trị mặc định = 1.0 ( >= 0)
++ Có 2 phương thức khơi tạo, mặc định
+và đầy đủ tham số.
++ Setter, getter cho từng thuộc tính.
++ chuVi()
++ dienTich()
+
+- Viết chương trình thử nghiệm, tạo 2 đối
+tượng và tính toán.
++ TestCase1: chieuDai = 0, chieuRong = 4 -> tính cv, dt
++ TestCase2: chieuDai = 1.5, chieuRong = 3 -> tinh cv, dt
