@@ -1,0 +1,6 @@
+1. Taọ class HinhTron co ban kinh r
+là số thực, giá trị mặc định = 1.
+
++ 1 constructor rỗng và đầy đủ tham số.
++ tinhChuVi(): double
++ tinhDienTich(): double
