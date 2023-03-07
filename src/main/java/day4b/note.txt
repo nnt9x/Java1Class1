@@ -1,0 +1,10 @@
+1. Tạo 1 class HinhChuNhat có chiều dài, chiều rộng (măc dinh 1x1)
+
+- tinhChuVi():double
+- tinhDienTich():double
+
+Tao 1 class HinhVuong có 1 cạnh kế thừa từ hình chữ nhât.
+-> Viết code sao cho tái sử dụng nhiều nhất.
+
+Lưu ý: Hinh vuông là hinh chu nhat dac biet co cac cạnh bang nhau.
+
