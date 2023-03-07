@@ -1,0 +1,3 @@
+// Giống bài 4.1 nhưng giải theo cách khác, ko dùng kế thừa
+
+// Coi hình tròn là 1 phần của hình trụ
