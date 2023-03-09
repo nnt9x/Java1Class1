@@ -1,0 +1,9 @@
+Tạo 1 class lưu trữ theo dạng Key-Value
+
+Class này có thể dùng để lưu các giá trị
+họ tên - số diện thoại
+hoặc
+STT - họ tên
+
+hoặc theo từ điển Anh - Việt
+hello - { xin chào, chào, ...}
