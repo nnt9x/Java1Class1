@@ -9,7 +9,6 @@ public class Main {
         // Tinh tich
         System.out.println(mayTinh.tich(1.0, 2.0, 3.0));
 
-
         MayTinh<PhanSo> mayTinh1 = new MayTinhPhanSo();
         PhanSo ps1 = new PhanSo(1, 2);
         PhanSo ps2 = new PhanSo(3, 4);
