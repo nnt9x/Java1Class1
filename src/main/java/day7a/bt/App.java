@@ -142,8 +142,55 @@ public class App {
 
                     break;
                 case 7:
+                    // Nhap ma sinh vien -> kiem tra xem co hop le hay ko
+                    System.out.print("Nhập mã sinh viên: ");
+                    String mSv11 = in.nextLine();
+                    boolean flag11 = false;
+                    for (SinhVien sinhVien: sinhVienList) {
+                        if(sinhVien.getMaSinhVien().equals(mSv11)){
+                            flag11 = true;
+                            break;
+                        }
+                    }
+                    if(flag11 == false) {
+                        System.out.println("Không có sinh viên đó!");
+                        continue;
+                    }
+                    // Nhap ma mon hoc -> kiem tra xem ma mon co hop le hay ko
+                    System.out.print("Nhập mã môn học: ");
+                    String mMh1 = in.nextLine();
+                    boolean flag22 = false;
+                    for (MonHoc monHoc: monHocList) {
+                        if(monHoc.getMaMonHoc().equals(mMh1)){
+                            flag22 = true;
+                            break;
+                        }
+                    }
+                    if(flag22 == false) {
+                        System.out.println("Không có môn học đó!");
+                        continue;
+                    }
+
+                    // Kiểm tra xem bạn sv đã học môn này chưa và có điểm chưa ??
+                    Diem diemSv = null;
+                    for (Diem diemMH: diemList) {
+                        if(diemMH.getMaSinhVien().equals(mSv11) && diemMH.getMaMonHoc().equals(mMh1)){
+                            diemSv = diemMH;
+                            break;
+                        }
+                    }
+                    if(diemSv == null){
+                        System.out.println("Sinh viên có mã "+ mSv11 + " chưa có điểm môn học "+ mMh1);
+                    }
+                    else {
+                        System.out.print("Nhập điểm mới: ");
+                        diemSv.setDiemSo(Integer.parseInt(in.nextLine()));
+                        System.out.println("Cập nhật điểm thành công");
+                    }
+
                     break;
                 case 8:
+
                     break;
                 case 9:
                     break;
