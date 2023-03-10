@@ -18,3 +18,6 @@ a. Nhập n hình khác nhau (có thể nhập trực tiếp)
 b. In ra hình có thể tích nhỏ nhất.
 c. Tính trung bình cộng thể tích các hình.
 * d. Săp xêp theo thể tích tăng dần??
+
+Thêm class HinhTru extends từ HinhHoc3D -> tự chọn các thuộc
+tính, phương thức phù hợp
