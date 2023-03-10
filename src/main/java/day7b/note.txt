@@ -1,4 +1,4 @@
-1. Tạo 1 interface HinhHoc3D có 1 phương thức
+BT1. Tạo 1 interface HinhHoc3D có 1 phương thức
 trừu tượng là tính thể tích
 + tinhTheTich(): double
 
@@ -17,3 +17,4 @@ List<HinhHoc3D> arrHinh;
 a. Nhập n hình khác nhau (có thể nhập trực tiếp)
 b. In ra hình có thể tích nhỏ nhất.
 c. Tính trung bình cộng thể tích các hình.
+* d. Săp xêp theo thể tích tăng dần??
